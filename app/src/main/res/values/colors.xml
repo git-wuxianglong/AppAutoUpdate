@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 对话框dialog -->
+    <color name="remind_infomation_split_line_color">#FFE8E8E8</color>
+    <color name="remind_infomation_btn_ok_normal">#FF1B81FF</color>
+    <color name="remind_infomation_btn_ok_pressed">#FF0F4D9B</color>
+    <color name="remind_infomation_btn_ok_disable">#FF888888</color>
+    <color name="remind_infomation_bg_color">#FFFFFFFF</color>
+
+    <drawable name="color_user_item_normal">#FFFFFFFF</drawable>
+    <drawable name="color_user_item_pressed">#FFDDDDDD</drawable>
+
+</resources>

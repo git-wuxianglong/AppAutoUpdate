@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#FFC6C6C6" >
+
+    <selector xmlns:android="http://schemas.android.com/apk/res/android" >
+
+        <!-- 按下时 -->
+        <item
+            android:drawable="@drawable/color_user_item_pressed"
+            android:state_pressed="true"/>
+        <item
+            android:drawable="@drawable/color_user_item_pressed"
+            android:state_focused="true"/>
+        <!-- 正常时 -->
+        <item android:drawable="@drawable/color_user_item_normal"/>
+    </selector>
+
+</ripple>
